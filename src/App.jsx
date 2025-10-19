@@ -1,11 +1,11 @@
 import { useState } from 'react'
-import './App.css'
+import Beatrix from './components/beatrix'
 
 function App() {
 
   return (
     <>
-      <h1>Hi Tech Team</h1>
+      <Beatrix></Beatrix>
     </>
   )
 }
