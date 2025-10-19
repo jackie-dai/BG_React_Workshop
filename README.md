@@ -1,1 +1,1 @@
-# BG_Tech_Workshop
+# B&G React Workshop
