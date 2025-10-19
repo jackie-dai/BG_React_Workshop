@@ -1,13 +1,13 @@
 import { useState } from 'react'
 import './App.css'
 
-function Giselle() {
+function Gisella() {
 
   return (
     <>
-      <h1>Hi Giselle</h1>
+      <h1>Hi Gisella</h1>
     </>
   )
 }
 
-export default Giselle
+export default Gisella
