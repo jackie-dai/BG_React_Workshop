@@ -1,7 +1,6 @@
 import { useState } from 'react'
-import './App.css'
 
-function Beatrix() {
+function beatrix() {
 
   return (
     <>
@@ -10,4 +9,4 @@ function Beatrix() {
   )
 }
 
-export default Beatrix
+export default beatrix;
