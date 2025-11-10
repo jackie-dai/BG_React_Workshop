@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import Beatrix from './components/beatrix'
 import Keryssa from './components/Keryssa'
+import Mia from './components/mia'
 
 function App() {
 
@@ -8,6 +9,7 @@ function App() {
     <>
       <Beatrix></Beatrix>
       <Keryssa></Keryssa>
+      <Mia></Mia>
     </>
   )
 }
